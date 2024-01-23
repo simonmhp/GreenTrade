@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "566421081596",
+    "firebase_url": "https://green2-ac285-default-rtdb.firebaseio.com",
+    "project_id": "green2-ac285",
+    "storage_bucket": "green2-ac285.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566421081596:android:0a99253ba80b8b36697679",
+        "android_client_info": {
+          "package_name": "com.example.green2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcGYWCxJYCqDIXXWMIJU1BonrhgcY0ty0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
